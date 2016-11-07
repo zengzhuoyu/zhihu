@@ -48,7 +48,13 @@
 
 <script type="text/ng-template" id="home.tpl">
     <div class="home container">
-        I love home.
+        <h1>最新动态</h1>
+        <div class="hr"></div>
+        <div class="item-set">
+            <div class="item">
+                新浪娱乐讯 11月1日，金莎[微博]因急性胃痉挛昏迷入院，引发不少热议，有人表示心疼，更有人觉得像炒作。而就在刚刚，金莎通过个人微博发声，“我很好，就是有点肿了，谢谢你们那么关心我，我都收到了！”。            
+            </div>            
+        </div>
     </div>
 </script>
 

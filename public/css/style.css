@@ -110,6 +110,7 @@ input,button{
 /*不同页面的width不一样*/
 .container.signup,
 .container.login,
+.container.home,
 .container.question-add,
 .container.reset-password{
 	width: 600px;
